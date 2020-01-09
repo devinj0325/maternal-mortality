@@ -1,4 +1,4 @@
-Region,Year,Number of deaths,Lifetime risk of maternal death (%),"Maternal mortality ratio (deaths per 100,000 live births)",Domestic private health expenditure (% of current health expenditure),Domestic general government health expenditure (% of GDP),GDP per capita (international-$)
+region,year,number_of_deaths,lifetime_risk,mortality_ratio,private_expenditure,government_expenditure,gdp_capita
 East Asia & Pacific,2000,34000,0.21,113,29.52,4.34,7178.89
 Europe & Central Asia,2000,3400,0.05,33,24.49,5.88,22220.7
 Latin America & Caribbean,2000,12000,0.29,99,56.91,2.53,11458.67
