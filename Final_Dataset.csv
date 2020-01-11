@@ -1,113 +1,113 @@
-region,year,number_of_deaths,lifetime_risk,mortality_ratio,private_expenditure,government_expenditure,gdp_capita
-East Asia & Pacific,2000,34000,0.21,113,29.52,4.34,7178.89
-Europe & Central Asia,2000,3400,0.05,33,24.49,5.88,22220.7
-Latin America & Caribbean,2000,12000,0.29,99,56.91,2.53,11458.67
-Middle East & North Africa,2000,8700,0.38,113,44.46,2.48,13554.73
-North America,2000,510,0.02,12,54.5,5.56,45146.13
-South Asia,2000,147000,1.45,388,73.61,0.87,2520.24
-Sub-Saharan Africa,2000,236000,4.72,846,60.33,1.72,2379.29
-East Asia & Pacific,2001,32000,0.2,110,29.9,4.36,7386.65
-Europe & Central Asia,2001,3300,0.05,32,24.36,6.04,22723.1
-Latin America & Caribbean,2001,11000,0.27,95,56.79,2.6,11377.76
-Middle East & North Africa,2001,8500,0.36,110,43.33,2.71,13488.28
-North America,2001,540,0.02,12,53.65,5.97,45166.49
-South Asia,2001,140000,1.35,369,75.8,0.83,2579.88
-Sub-Saharan Africa,2001,236000,4.58,827,59.66,1.79,2413.07
-East Asia & Pacific,2002,31000,0.19,106,30.73,4.29,7698.34
-Europe & Central Asia,2002,3200,0.05,31,24.25,6.22,23182.66
-Latin America & Caribbean,2002,11000,0.25,92,54.36,2.82,11247.9
-Middle East & North Africa,2002,8400,0.34,107,43.82,2.66,13480.2
-North America,2002,550,0.02,13,53.72,6.31,45594.67
-South Asia,2002,133000,1.25,350,75.69,0.82,2627.92
-Sub-Saharan Africa,2002,233000,4.4,801,61.63,1.48,2436.51
-East Asia & Pacific,2003,30000,0.18,102,31.17,4.33,8069.65
-Europe & Central Asia,2003,3000,0.05,30,24.29,6.38,23713.71
-Latin America & Caribbean,2003,10000,0.24,90,54.33,2.94,11306.69
-Middle East & North Africa,2003,8300,0.33,104,43.71,2.59,13910.33
-North America,2003,570,0.02,13,53.78,6.5,46429.4
-South Asia,2003,126000,1.16,331,77.08,0.75,2767.64
-Sub-Saharan Africa,2003,230000,4.22,773,63.46,1.69,2492.6
-East Asia & Pacific,2004,29000,0.17,98,30.91,4.33,8527.46
-Europe & Central Asia,2004,2900,0.04,28,24.47,6.34,24566.68
-Latin America & Caribbean,2004,10000,0.24,90,53.37,3.04,11846.21
-Middle East & North Africa,2004,8200,0.32,102,44.6,2.38,14741.63
-North America,2004,570,0.02,13,53.38,6.58,47712.99
-South Asia,2004,119000,1.07,314,77.21,0.73,2926.16
-Sub-Saharan Africa,2004,226000,4.04,744,58.01,1.94,2723.83
-East Asia & Pacific,2005,28000,0.17,94,31.11,4.28,9023.08
-Europe & Central Asia,2005,2800,0.04,27,24.34,6.38,25310.59
-Latin America & Caribbean,2005,10000,0.23,88,53.6,3.09,12189.02
-Middle East & North Africa,2005,8200,0.31,100,45.01,2.24,15172.59
-North America,2005,590,0.02,13,53.16,6.6,48847.89
-South Asia,2005,112000,0.99,296,76.35,0.76,3130.57
-Sub-Saharan Africa,2005,222000,3.87,717,58.15,1.83,2799.53
-East Asia & Pacific,2006,27000,0.16,89,32.33,4.07,9613.94
-Europe & Central Asia,2006,2600,0.04,24,23.85,6.37,26391.63
-Latin America & Caribbean,2006,9800,0.22,87,53.13,3.13,12671.57
-Middle East & North Africa,2006,8200,0.3,98,42.52,2.29,15716.23
-North America,2006,600,0.03,13,52.21,6.78,49676.06
-South Asia,2006,106000,0.92,281,76.6,0.74,3346.11
-Sub-Saharan Africa,2006,217000,3.71,689,54.95,1.89,2915.68
-East Asia & Pacific,2007,26000,0.15,85,32.15,3.93,10350.21
-Europe & Central Asia,2007,2400,0.04,22,24.08,6.27,27450.81
-Latin America & Caribbean,2007,9500,0.21,85,52.6,3.24,13191.73
-Middle East & North Africa,2007,8300,0.29,95,43.53,2.26,16182.2
-North America,2007,600,0.03,13,52.04,6.9,50091.65
-South Asia,2007,100000,0.85,265,76.03,0.75,3588.23
-Sub-Saharan Africa,2007,216000,3.61,673,53.93,1.9,3040.48
-East Asia & Pacific,2008,25000,0.14,81,32.02,4.04,10813.72
-Europe & Central Asia,2008,2300,0.04,21,24.14,6.41,27781.99
-Latin America & Caribbean,2008,9300,0.2,84,50.73,3.34,13528.65
-Middle East & North Africa,2008,8300,0.29,93,44.34,2.19,16545.13
-North America,2008,610,0.03,14,51.05,7.22,49521.44
-South Asia,2008,94000,0.79,252,74.37,0.78,3669.83
-Sub-Saharan Africa,2008,211000,3.45,646,54,1.79,3121.92
-East Asia & Pacific,2009,24000,0.14,78,30.86,4.45,11132.15
-Europe & Central Asia,2009,2200,0.03,20,21.9,7.24,26379.59
-Latin America & Caribbean,2009,9300,0.2,85,50.11,3.67,13089.64
-Middle East & North Africa,2009,8300,0.28,91,42.96,2.84,16338.55
-North America,2009,630,0.03,14,50.25,7.88,47706.76
-South Asia,2009,89000,0.74,239,72.51,0.86,3887.94
-Sub-Saharan Africa,2009,214000,3.41,642,52.55,1.92,3138.27
-East Asia & Pacific,2010,23000,0.13,74,30.64,4.38,11964.95
-Europe & Central Asia,2010,2100,0.03,19,22.26,7.03,27035.97
-Latin America & Caribbean,2010,8900,0.19,81,55.07,3.51,13701.07
-Middle East & North Africa,2010,8400,0.28,89,46.06,2.53,16802.83
-North America,2010,620,0.03,14,49.87,7.94,48516.51
-South Asia,2010,84000,0.69,228,72.16,0.84,4173.31
-Sub-Saharan Africa,2010,212000,3.3,625,51.19,1.93,3227.61
-East Asia & Pacific,2011,22000,0.13,71,29.16,4.77,12610.43
-Europe & Central Asia,2011,2000,0.03,18,22.74,6.87,27766.6
-Latin America & Caribbean,2011,8500,0.18,78,53.71,3.63,14141.6
-Middle East & North Africa,2011,8400,0.27,87,44.62,2.56,16964.65
-North America,2011,610,0.03,14,49.8,7.9,48978.08
-South Asia,2011,80000,0.64,218,69.77,0.9,4371.64
-Sub-Saharan Africa,2011,207000,3.16,601,50.25,1.96,3294.69
-East Asia & Pacific,2012,21000,0.12,67,29.45,4.8,13242.79
-Europe & Central Asia,2012,1900,0.03,17,22.95,6.85,27856.51
-Latin America & Caribbean,2012,8200,0.17,75,53.03,3.66,14379.35
-Middle East & North Africa,2012,8400,0.27,86,44.88,2.56,17228.83
-North America,2012,600,0.03,14,49.88,7.89,49651.33
-South Asia,2012,76000,0.6,208,70.25,0.9,4547.65
-Sub-Saharan Africa,2012,206000,3.06,587,50.41,1.93,3327.88
-East Asia & Pacific,2013,20000,0.12,64,30.82,4.55,13897.32
-Europe & Central Asia,2013,1900,0.03,17,23.37,6.99,28078.66
-Latin America & Caribbean,2013,7800,0.16,72,52.81,3.72,14625.59
-Middle East & North Africa,2013,8300,0.27,84,41.82,2.71,17301.72
-North America,2013,590,0.03,14,49.55,7.93,50137.02
-South Asia,2013,72000,0.56,198,74.78,0.86,4758.14
-Sub-Saharan Africa,2013,204000,2.96,573,51.26,1.81,3405.81
-East Asia & Pacific,2014,19000,0.11,62,31.23,4.48,14518.18
-Europe & Central Asia,2014,1900,0.03,17,23.27,7.07,28463.15
-Latin America & Caribbean,2014,7500,0.16,69,53.67,3.74,14643.29
-Middle East & North Africa,2014,8200,0.26,83,38.16,3.1,17444.35
-North America,2014,590,0.02,13,19.09,12.86,51034.87
-South Asia,2014,69000,0.53,189,73.96,0.84,5022.28
-Sub-Saharan Africa,2014,203000,2.87,560,51.86,1.71,3478.8
-East Asia & Pacific,2015,18000,0.11,59,31.23,4.45,15143.1
-Europe & Central Asia,2015,1800,0.03,16,23.29,7.14,28801.84
-Latin America & Caribbean,2015,7300,0.15,67,51.88,4.15,14568.25
-Middle East & North Africa,2015,8000,0.25,81,39.66,3.31,17505.67
-North America,2015,580,0.02,13,18.47,13.3,52016.22
-South Asia,2015,66000,0.5,182,72.53,0.9,5332.82
-Sub-Saharan Africa,2015,201000,2.77,547,51.98,1.86,3499.27
+region,year,lifetime_risk,mortality_ratio,private_expenditure,government_expenditure,gdp_capita
+East Asia & Pacific,2000,0.21,113,29.52,4.34,7178.89
+Europe & Central Asia,2000,0.05,33,24.49,5.88,22220.7
+Latin America & Caribbean,2000,0.29,99,56.91,2.53,11458.67
+Middle East & North Africa,2000,0.38,113,44.46,2.48,13554.73
+North America,2000,0.02,12,54.5,5.56,45146.13
+South Asia,2000,1.45,388,73.61,0.87,2520.24
+Sub-Saharan Africa,2000,4.72,846,60.33,1.72,2379.29
+East Asia & Pacific,2001,0.2,110,29.9,4.36,7386.65
+Europe & Central Asia,2001,0.05,32,24.36,6.04,22723.1
+Latin America & Caribbean,2001,0.27,95,56.79,2.6,11377.76
+Middle East & North Africa,2001,0.36,110,43.33,2.71,13488.28
+North America,2001,0.02,12,53.65,5.97,45166.49
+South Asia,2001,1.35,369,75.8,0.83,2579.88
+Sub-Saharan Africa,2001,4.58,827,59.66,1.79,2413.07
+East Asia & Pacific,2002,0.19,106,30.73,4.29,7698.34
+Europe & Central Asia,2002,0.05,31,24.25,6.22,23182.66
+Latin America & Caribbean,2002,0.25,92,54.36,2.82,11247.9
+Middle East & North Africa,2002,0.34,107,43.82,2.66,13480.2
+North America,2002,0.02,13,53.72,6.31,45594.67
+South Asia,2002,1.25,350,75.69,0.82,2627.92
+Sub-Saharan Africa,2002,4.4,801,61.63,1.48,2436.51
+East Asia & Pacific,2003,0.18,102,31.17,4.33,8069.65
+Europe & Central Asia,2003,0.05,30,24.29,6.38,23713.71
+Latin America & Caribbean,2003,0.24,90,54.33,2.94,11306.69
+Middle East & North Africa,2003,0.33,104,43.71,2.59,13910.33
+North America,2003,0.02,13,53.78,6.5,46429.4
+South Asia,2003,1.16,331,77.08,0.75,2767.64
+Sub-Saharan Africa,2003,4.22,773,63.46,1.69,2492.6
+East Asia & Pacific,2004,0.17,98,30.91,4.33,8527.46
+Europe & Central Asia,2004,0.04,28,24.47,6.34,24566.68
+Latin America & Caribbean,2004,0.24,90,53.37,3.04,11846.21
+Middle East & North Africa,2004,0.32,102,44.6,2.38,14741.63
+North America,2004,0.02,13,53.38,6.58,47712.99
+South Asia,2004,1.07,314,77.21,0.73,2926.16
+Sub-Saharan Africa,2004,4.04,744,58.01,1.94,2723.83
+East Asia & Pacific,2005,0.17,94,31.11,4.28,9023.08
+Europe & Central Asia,2005,0.04,27,24.34,6.38,25310.59
+Latin America & Caribbean,2005,0.23,88,53.6,3.09,12189.02
+Middle East & North Africa,2005,0.31,100,45.01,2.24,15172.59
+North America,2005,0.02,13,53.16,6.6,48847.89
+South Asia,2005,0.99,296,76.35,0.76,3130.57
+Sub-Saharan Africa,2005,3.87,717,58.15,1.83,2799.53
+East Asia & Pacific,2006,0.16,89,32.33,4.07,9613.94
+Europe & Central Asia,2006,0.04,24,23.85,6.37,26391.63
+Latin America & Caribbean,2006,0.22,87,53.13,3.13,12671.57
+Middle East & North Africa,2006,0.3,98,42.52,2.29,15716.23
+North America,2006,0.03,13,52.21,6.78,49676.06
+South Asia,2006,0.92,281,76.6,0.74,3346.11
+Sub-Saharan Africa,2006,3.71,689,54.95,1.89,2915.68
+East Asia & Pacific,2007,0.15,85,32.15,3.93,10350.21
+Europe & Central Asia,2007,0.04,22,24.08,6.27,27450.81
+Latin America & Caribbean,2007,0.21,85,52.6,3.24,13191.73
+Middle East & North Africa,2007,0.29,95,43.53,2.26,16182.2
+North America,2007,0.03,13,52.04,6.9,50091.65
+South Asia,2007,0.85,265,76.03,0.75,3588.23
+Sub-Saharan Africa,2007,3.61,673,53.93,1.9,3040.48
+East Asia & Pacific,2008,0.14,81,32.02,4.04,10813.72
+Europe & Central Asia,2008,0.04,21,24.14,6.41,27781.99
+Latin America & Caribbean,2008,0.2,84,50.73,3.34,13528.65
+Middle East & North Africa,2008,0.29,93,44.34,2.19,16545.13
+North America,2008,0.03,14,51.05,7.22,49521.44
+South Asia,2008,0.79,252,74.37,0.78,3669.83
+Sub-Saharan Africa,2008,3.45,646,54,1.79,3121.92
+East Asia & Pacific,2009,0.14,78,30.86,4.45,11132.15
+Europe & Central Asia,2009,0.03,20,21.9,7.24,26379.59
+Latin America & Caribbean,2009,0.2,85,50.11,3.67,13089.64
+Middle East & North Africa,2009,0.28,91,42.96,2.84,16338.55
+North America,2009,0.03,14,50.25,7.88,47706.76
+South Asia,2009,0.74,239,72.51,0.86,3887.94
+Sub-Saharan Africa,2009,3.41,642,52.55,1.92,3138.27
+East Asia & Pacific,2010,0.13,74,30.64,4.38,11964.95
+Europe & Central Asia,2010,0.03,19,22.26,7.03,27035.97
+Latin America & Caribbean,2010,0.19,81,55.07,3.51,13701.07
+Middle East & North Africa,2010,0.28,89,46.06,2.53,16802.83
+North America,2010,0.03,14,49.87,7.94,48516.51
+South Asia,2010,0.69,228,72.16,0.84,4173.31
+Sub-Saharan Africa,2010,3.3,625,51.19,1.93,3227.61
+East Asia & Pacific,2011,0.13,71,29.16,4.77,12610.43
+Europe & Central Asia,2011,0.03,18,22.74,6.87,27766.6
+Latin America & Caribbean,2011,0.18,78,53.71,3.63,14141.6
+Middle East & North Africa,2011,0.27,87,44.62,2.56,16964.65
+North America,2011,0.03,14,49.8,7.9,48978.08
+South Asia,2011,0.64,218,69.77,0.9,4371.64
+Sub-Saharan Africa,2011,3.16,601,50.25,1.96,3294.69
+East Asia & Pacific,2012,0.12,67,29.45,4.8,13242.79
+Europe & Central Asia,2012,0.03,17,22.95,6.85,27856.51
+Latin America & Caribbean,2012,0.17,75,53.03,3.66,14379.35
+Middle East & North Africa,2012,0.27,86,44.88,2.56,17228.83
+North America,2012,0.03,14,49.88,7.89,49651.33
+South Asia,2012,0.6,208,70.25,0.9,4547.65
+Sub-Saharan Africa,2012,3.06,587,50.41,1.93,3327.88
+East Asia & Pacific,2013,0.12,64,30.82,4.55,13897.32
+Europe & Central Asia,2013,0.03,17,23.37,6.99,28078.66
+Latin America & Caribbean,2013,0.16,72,52.81,3.72,14625.59
+Middle East & North Africa,2013,0.27,84,41.82,2.71,17301.72
+North America,2013,0.03,14,49.55,7.93,50137.02
+South Asia,2013,0.56,198,74.78,0.86,4758.14
+Sub-Saharan Africa,2013,2.96,573,51.26,1.81,3405.81
+East Asia & Pacific,2014,0.11,62,31.23,4.48,14518.18
+Europe & Central Asia,2014,0.03,17,23.27,7.07,28463.15
+Latin America & Caribbean,2014,0.16,69,53.67,3.74,14643.29
+Middle East & North Africa,2014,0.26,83,38.16,3.1,17444.35
+North America,2014,0.02,13,19.09,12.86,51034.87
+South Asia,2014,0.53,189,73.96,0.84,5022.28
+Sub-Saharan Africa,2014,2.87,560,51.86,1.71,3478.8
+East Asia & Pacific,2015,0.11,59,31.23,4.45,15143.1
+Europe & Central Asia,2015,0.03,16,23.29,7.14,28801.84
+Latin America & Caribbean,2015,0.15,67,51.88,4.15,14568.25
+Middle East & North Africa,2015,0.25,81,39.66,3.31,17505.67
+North America,2015,0.02,13,18.47,13.3,52016.22
+South Asia,2015,0.5,182,72.53,0.9,5332.82
+Sub-Saharan Africa,2015,2.77,547,51.98,1.86,3499.27
